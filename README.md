@@ -46,9 +46,9 @@ I build applications that combine practical product experiences with thoughtful 
 ## ⚡ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,spring,html,css,php,kotlin&theme=dark&perline=6" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,nestjs,spring,html,css,php,kotlin&theme=dark&perline=6" alt="Languages and frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,kubernetes,aws,git,github,githubactions,postman,linux,selenium&theme=dark&perline=6" alt="Databases, tools, and cloud technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,kubernetes,aws,git,github,githubactions,postman,linux,selenium&theme=dark&perline=6" alt="Databases, tools, and cloud technologies" />
 </p>
 
 <p align="center">
@@ -63,12 +63,12 @@ I build applications that combine practical product experiences with thoughtful 
   <tr>
     <td width="50%" valign="top">
       <h3>🎬 Nexus</h3>
-      <p><strong>AI Movie Discovery & Recommendation App</strong></p>
-      <p>A full-stack movie discovery experience combining TMDB content with Gemini-powered recommendation logic.</p>
+      <p><strong>AI Movie Discovery & Recommendation</strong></p>
+      <p>Full-stack movie discovery app integrating TMDB content with Gemini-powered recommendation logic.</p>
       <ul>
-        <li>Integrated TMDB and Gemini APIs for movie information and AI recommendations.</li>
-        <li>Created Selenium UI/functional tests covering approximately 95% of core user workflows.</li>
-        <li>Built a GitHub Actions CI/CD pipeline, reducing manual deployment effort by approximately 85%.</li>
+        <li>Integrated TMDB and Gemini APIs for movie data and AI recommendations.</li>
+        <li>Built Selenium UI/functional tests covering approximately 95% of core user workflows.</li>
+        <li>Automated CI/CD with GitHub Actions, reducing manual deployment effort by approximately 85%.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/TMDB-API-01B4E4?style=flat-square" alt="TMDB API" />
@@ -76,16 +76,16 @@ I build applications that combine practical product experiences with thoughtful 
         <img src="https://img.shields.io/badge/Selenium-Testing-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
         <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
       </p>
-      <p><a href="https://github.com/rajulodh/Nexus">↗ Source code (update repository URL if different)</a></p>
+      <p><a href="https://github.com/rajulodh?tab=repositories">↗ Find source repository</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>💬 BlinxAI</h3>
       <p><strong>AI-Powered Real-Time Chat Application</strong></p>
-      <p>A real-time messaging application designed around microservices, WebSocket communication, and AI chatbot interactions.</p>
+      <p>Real-time messaging app designed around microservices, WebSocket communication, and AI chatbot interactions.</p>
       <ul>
-        <li>Implemented WebSocket-based real-time messaging and AI chatbot responses.</li>
-        <li>Used JWT-based authentication to secure user sessions.</li>
-        <li>Containerized services with Docker and deployed with Kubernetes and AWS.</li>
+        <li>Implemented WebSocket-based messaging and AI chatbot responses.</li>
+        <li>Secured user sessions with JWT-based authentication.</li>
+        <li>Containerized services with Docker and deployed using Kubernetes and AWS.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Microservices-Architecture-7C3AED?style=flat-square" alt="Microservices" />
@@ -93,26 +93,47 @@ I build applications that combine practical product experiences with thoughtful 
         <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Kubernetes-AWS-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes and AWS" />
       </p>
-      <p><a href="https://github.com/rajulodh/BlinxAI">↗ Source code (update repository URL if different)</a></p>
+      <p><a href="https://github.com/rajulodh?tab=repositories">↗ Find source repository</a></p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h3>🗂️ TaskFlow</h3>
+      <p><strong>Full-Stack Task & Project Management</strong></p>
+      <p>A workspace-based project management app with role-based access, tasks, subtasks, labels, comments, and project organization.</p>
+      <ul>
+        <li>Built a NestJS REST API with modular controllers/services, DTO validation, Prisma ORM, and PostgreSQL.</li>
+        <li>Designed relational data models with status/priority enums, assignees, due dates, and workspace-level label rules.</li>
+        <li>Created a responsive Next.js, React, TypeScript, and Tailwind UI with reusable components, dark/light themes, and a centralized API layer.</li>
+        <li>Implemented guest and Google authentication; deployed frontend on Vercel and backend on Render.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <p>
+        <a href="https://task-management-tau-rust.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Open_App-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="TaskFlow live demo" /></a>
+        <a href="https://github.com/rajulodh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Find_Repository-334155?style=for-the-badge&logo=github&logoColor=white" alt="Find TaskFlow repository" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🪪 Face Recognition Attendance System</h3>
       <p><strong>Automated student attendance with Python, Flask, and OpenCV</strong></p>
-      <p>A full-stack Flask application that automates student attendance using face recognition, from student registration and face capture through model training and real-time attendance marking.</p>
+      <p>A full-stack Flask application that automates attendance, from student registration and face capture through model training and real-time recognition.</p>
       <ul>
-        <li>Built workflows for student registration, face-image capture, model training, and automated attendance marking.</li>
-        <li>Used SQLAlchemy ORM to manage student records and attendance logs, including queries for retrieving and maintaining attendance data.</li>
-        <li>Implemented a face-recognition pipeline to identify registered students in real time and reduce manual attendance entry.</li>
-        <li>Deployed the application on Render for online access without requiring local setup.</li>
+        <li>Built student registration, face-image capture, model training, and attendance-marking workflows.</li>
+        <li>Used SQLAlchemy ORM to manage student records and attendance logs.</li>
+        <li>Implemented a recognition pipeline to identify registered students and reduce manual attendance entry.</li>
+        <li>Deployed on Render for online access.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
         <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/Render-Live_Demo-10B981?style=flat-square&logo=render&logoColor=white" alt="Render" />
       </p>
       <p>
         <a href="https://github.com/Chaitanya8464/Face-Attendance"><img src="https://img.shields.io/badge/GitHub-Source_Code-334155?style=for-the-badge&logo=github&logoColor=white" alt="Face Attendance source code" /></a>
