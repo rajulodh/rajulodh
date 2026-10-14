@@ -98,14 +98,26 @@ I build applications that combine practical product experiences with thoughtful 
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🪪 Face Attendance</h3>
-      <p><strong>Web-Based Attendance Application</strong></p>
-      <p>A deployed attendance application with a public demo. Explore the live app to see its interface and workflow.</p>
+      <h3>🪪 Face Recognition Attendance System</h3>
+      <p><strong>Automated student attendance with Python, Flask, and OpenCV</strong></p>
+      <p>A full-stack Flask application that automates student attendance using face recognition, from student registration and face capture through model training and real-time attendance marking.</p>
+      <ul>
+        <li>Built workflows for student registration, face-image capture, model training, and automated attendance marking.</li>
+        <li>Used SQLAlchemy ORM to manage student records and attendance logs, including queries for retrieving and maintaining attendance data.</li>
+        <li>Implemented a face-recognition pipeline to identify registered students in real time and reduce manual attendance entry.</li>
+        <li>Deployed the application on Render for online access without requiring local setup.</li>
+      </ul>
       <p>
-        <a href="https://face-attendance-hnic.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-Open_App-10B981?style=for-the-badge&logo=render&logoColor=white" alt="Open Face Attendance live demo" /></a>
-        <a href="https://github.com/rajulodh?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-View_Repositories-334155?style=for-the-badge&logo=github&logoColor=white" alt="Find source code" /></a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/Render-Live_Demo-10B981?style=flat-square&logo=render&logoColor=white" alt="Render" />
       </p>
-      <p><sub>Add the repository link and confirmed implementation details here so the project description accurately reflects the code.</sub></p>
+      <p>
+        <a href="https://github.com/Chaitanya8464/Face-Attendance"><img src="https://img.shields.io/badge/GitHub-Source_Code-334155?style=for-the-badge&logo=github&logoColor=white" alt="Face Attendance source code" /></a>
+        <a href="https://face-attendance-hnic.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-Open_App-10B981?style=for-the-badge&logo=render&logoColor=white" alt="Face Attendance live demo" /></a>
+      </p>
     </td>
   </tr>
 </table>
