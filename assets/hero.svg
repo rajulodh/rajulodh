@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="t">
+<title id="t">Raju Lodh, Software Developer and MCA graduate</title>
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0F1F"/><stop offset="1" stop-color="#101A38"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.28"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.06"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.16"/></linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#B9C8FF"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.09"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.025"/></linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+  <clipPath id="clip"><rect width="900" height="300" rx="22"/></clipPath>
+</defs>
+
+<g clip-path="url(#clip)">
+  <rect width="900" height="300" fill="url(#bg)"/>
+  <g filter="url(#blur)">
+    <circle cx="162.0" cy="60.0" r="126.0" fill="#7C9CFF" fill-opacity="0.42">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 70 40; -20 60; 0 0" dur="22s" repeatCount="indefinite"/></circle>
+    <circle cx="738.0" cy="90.0" r="114.0" fill="#A78BFA" fill-opacity="0.34">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -80 30; 30 -30; 0 0" dur="26s" repeatCount="indefinite"/></circle>
+    <circle cx="495.00000000000006" cy="285.0" r="102.00000000000001" fill="#5EEAD4" fill-opacity="0.2">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 60 -30; -50 -10; 0 0" dur="30s" repeatCount="indefinite"/></circle>
+  </g>
+</g>
+<rect x="24" y="24" width="852" height="252" rx="18" fill="url(#glass)" stroke="url(#edge)"/>
+<g font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.1111;1" dur="0.90s" begin="0s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.8s" begin="0.1s" fill="freeze"/>
+    <text x="64" y="112" font-size="56" font-weight="700" letter-spacing="-1.5" fill="url(#name)">Raju Lodh</text></g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3043;1" dur="1.15s" begin="0s" fill="freeze"/>
+    <text x="66" y="146" font-size="19" fill="#7C9CFF" font-weight="500">Software Developer  <tspan fill="#98A3C0">·</tspan>  MCA Graduate</text></g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4286;1" dur="1.40s" begin="0s" fill="freeze"/>
+    <text x="66" y="184" font-size="15" fill="#98A3C0">I build full-stack products, REST APIs and real-time systems,</text>
+    <text x="66" y="206" font-size="15" fill="#98A3C0">and I like shipping them tested, documented and deployed.</text></g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5152;1" dur="1.65s" begin="0s" fill="freeze"/>
+    <rect x="64" y="230" width="358" height="30" rx="15" fill="#34D399" fill-opacity="0.10" stroke="#34D399" stroke-opacity="0.45"/>
+    <circle cx="82" cy="245" r="4" fill="#34D399"/>
+    <circle cx="82" cy="245" r="4" fill="none" stroke="#34D399"><animate attributeName="r" values="4;11" dur="2.2s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.8;0" dur="2.2s" repeatCount="indefinite"/></circle>
+    <text x="98" y="250" font-family="'JetBrains Mono', SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#A7F3D0">Open to Associate Software Engineer roles</text></g>
+</g>
+<g font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <rect x="616" y="52" width="252" height="196" rx="16" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <text x="640" y="92" font-family="'JetBrains Mono', SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2" fill="#98A3C0">FOCUS</text>
+  
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5625;1" dur="1.60s" begin="0s" fill="freeze"/>
+      <rect x="640" y="118" width="204" height="34" rx="10" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <circle cx="660" cy="135" r="4" fill="#7C9CFF"/>
+      <text x="676" y="140" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#E8ECF8">Backend &amp; REST APIs</text></g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6216;1" dur="1.85s" begin="0s" fill="freeze"/>
+      <rect x="640" y="162" width="204" height="34" rx="10" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <circle cx="660" cy="179" r="4" fill="#A78BFA"/>
+      <text x="676" y="184" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#E8ECF8">AI integrations</text></g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6667;1" dur="2.10s" begin="0s" fill="freeze"/>
+      <rect x="640" y="206" width="204" height="34" rx="10" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <circle cx="660" cy="223" r="4" fill="#5EEAD4"/>
+      <text x="676" y="228" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#E8ECF8">Cloud &amp; CI/CD</text></g>
+</g>
+</svg>
