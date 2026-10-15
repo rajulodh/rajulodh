@@ -21,8 +21,6 @@
   <a href="https://www.linkedin.com/in/raju-lodh-362a20230"><img src="https://img.shields.io/badge/LET'S_CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rajulodh&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
-
 <img width="72%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=4500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=%E2%9C%A6+BUILD+WITH+PURPOSE+%E2%9C%A6+TEST+WHAT+MATTERS+%E2%9C%A6+SHIP+WITH+CONFIDENCE" alt="Animated engineering motto"/>
 
 </div>
@@ -189,8 +187,6 @@ A Flask web application that automates attendance, from student registration and
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajulodh&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most-used languages"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=rajulodh&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajulodh&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution graph"/>
 
 </div>
 
